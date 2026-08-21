@@ -60,6 +60,7 @@ const kauan = {
 <img src="https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" />
 
 </div>
+
 ### Em aprendizado
 
 <div align="left">
