@@ -69,6 +69,7 @@ const kauan = {
 <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
 
 </div>
+
 ---
 
 ## 🤖 Inteligência Artificial
