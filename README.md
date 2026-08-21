@@ -45,48 +45,29 @@ const kauan = {
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
-<img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/CSS3-8B0000?style=for-the-badge&logo=css3&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white" height="28" />
 
 </div>
-
-<p>
-  <strong>HTML</strong> &nbsp;&nbsp;
-  <strong>CSS</strong> &nbsp;&nbsp;
-  <strong>JavaScript</strong>
-</p>
 
 ### Ferramentas
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code" />
+<img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" />
 
 </div>
-
-<p>
-  <strong>Git</strong> &nbsp;&nbsp;
-  <strong>GitHub</strong> &nbsp;&nbsp;
-  <strong>VS Code</strong>
-</p>
-
 ### Em aprendizado
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
-<img src="https://skillicons.dev/icons?i=java" height="30" alt="Java" />
+<img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white" height="28" />
 
 </div>
-
-<p>
-  <strong>Python</strong> &nbsp;&nbsp;
-  <strong>Java</strong>
-</p>
-
 ---
 
 ## 🤖 Inteligência Artificial
