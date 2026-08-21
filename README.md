@@ -45,25 +45,47 @@ const kauan = {
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript" />
 
 </div>
+
+<p>
+  <strong>HTML</strong> &nbsp;&nbsp;
+  <strong>CSS</strong> &nbsp;&nbsp;
+  <strong>JavaScript</strong>
+</p>
 
 ### Ferramentas
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" height="30" alt="VS Code" />
 
 </div>
+
+<p>
+  <strong>Git</strong> &nbsp;&nbsp;
+  <strong>GitHub</strong> &nbsp;&nbsp;
+  <strong>VS Code</strong>
+</p>
 
 ### Em aprendizado
 
-<div align="left">
+<<div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java" />
+<img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
+<img src="https://skillicons.dev/icons?i=java" height="30" alt="Java" />
 
 </div>
+
+<p>
+  <strong>Python</strong> &nbsp;&nbsp;
+  <strong>Java</strong>
+</p>
 
 ---
 
