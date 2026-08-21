@@ -75,7 +75,7 @@ const kauan = {
 
 ### Em aprendizado
 
-<<div align="left">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python" />
 <img src="https://skillicons.dev/icons?i=java" height="30" alt="Java" />
