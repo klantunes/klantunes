@@ -8,8 +8,6 @@
 
 <div align="center">
 
-# Kauan Lopes
-
 ### `Developer Full-Stack`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=750&lines=Bem-vindo+ao+meu+perfil!;Developer+Full-Stack;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
