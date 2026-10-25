@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=220&section=header&text=KAUAN%20LOPES&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<h3>Developer Full-Stack &nbsp; • &nbsp; Análise e Desenvolvimento de Sistemas</h3>
+<h3>Developer Full-Stack &nbsp; • &nbsp; Desenvolvimento de Sistemas</h3>
 
 <br>
 
@@ -21,7 +21,7 @@ const kauan = {
 
     formação: {
         curso: "Análise e Desenvolvimento de Sistemas",
-        instituição: "SENAI",
+        instituição: "SENAC",
         semestre: "1º semestre"
     },
 
@@ -91,7 +91,7 @@ Ferramentas de Inteligência Artificial que fazem parte da minha rotina de estud
 
 Comecei minha jornada na programação transformando curiosidade em projetos.
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e construindo minha base para me tornar um desenvolvedor **Full-Stack**.
+Atualmente, estou cursando **Desenvolvimento de Sistemas** e construindo minha base para me tornar um desenvolvedor **Full-Stack**.
 
 Meu foco é continuar aprendendo, desenvolver projetos cada vez melhores e colocar meus conhecimentos em prática.
 
@@ -102,7 +102,7 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia**, onde p
 ## 📚 Atualmente
 
 ```text
-🎓  Análise e Desenvolvimento de Sistemas — SENAI
+🎓  Desenvolvimento de Sistemas — SENAC
 💻  Desenvolvimento Full-Stack
 🌱  Aprendendo Python e Java
 🔧  Git e GitHub
